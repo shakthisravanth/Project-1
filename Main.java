@@ -1,8 +1,4 @@
 public class Main {
-<<<<<<< HEAD
-   public static void main(String[] args) {
-        // write your program here
-=======
     public static void main(String[] args) {
         int a = 10, b = 5;
 
@@ -13,6 +9,5 @@ public class Main {
 
         a += 5; // assignment operator
         System.out.println("After a += 5: " + a);
->>>>>>> e743d32 (calculater test)
     }
 }
